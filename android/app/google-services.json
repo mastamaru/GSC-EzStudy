@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909375219009",
+    "project_id": "ezstudy-982ff",
+    "storage_bucket": "ezstudy-982ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909375219009:android:da9c74eaabf6c536f22dc0",
+        "android_client_info": {
+          "package_name": "com.example.ezstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909375219009-9r63le9eie3glcjq5bl1g445c12u36d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezstudy",
+            "certificate_hash": "4eeaa808534c3431c7877c5d431d4090ecaf4217"
+          }
+        },
+        {
+          "client_id": "909375219009-tq7ormtb5siu3f7f9p881rsnsnqejoj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ezstudy",
+            "certificate_hash": "168d341bd4abd2a6f8bcb3e47ab1bb30f0147b4f"
+          }
+        },
+        {
+          "client_id": "909375219009-pnhrpspri37vrbrfknr85k0644bhi99d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFYF8sFZ4qDlRrvNB0B-TRgrIY31Pi4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909375219009-pnhrpspri37vrbrfknr85k0644bhi99d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
